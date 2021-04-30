@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building python tools for managing and monitoring Cisco UC server clusters and apps.
+
+- 💬 Ask me about ... ultramarathons, they're absurd.
+
 <!--
 **jgmitchell257/jgmitchell257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
