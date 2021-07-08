@@ -1,7 +1,7 @@
 ### Hi there 👋
+I spend most of my work days working with Cisco products (UC and Webex). If you find anything here useful, feel free to steal it, that's why it's here. I wish more stuff was free and open so we didn't have to constantly reinvent the wheel when we want to do something.
 
 - 🔭 I’m currently working on building python tools for managing and monitoring Cisco UC server clusters and apps.
-
 - 💬 Ask me about ... ultramarathons, they're absurd.
 
 <!--
