@@ -3,6 +3,7 @@ I spend most of my work days working with Cisco products (UC and Webex). If you 
 
 - 🔭 I’m currently working on building python tools for managing and monitoring Cisco UC server clusters and apps.
 - 💬 Ask me about ... ultramarathons, they're absurd.
+- ⚡ Fun fact: I've been using versions of RedHat Linux since RH5 which you could buy in a box from Walmart :O
 
 <!--
 **jgmitchell257/jgmitchell257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
