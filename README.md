@@ -3,7 +3,7 @@ I spend most of my work days focusing on networking and security. If you find an
 
 - 🔭 I’m currently working on building python tools for managing and monitoring Cisco UC server clusters and apps.
 - 💬 Ask me about ... ultramarathons, they're absurd.
-- ⚡ Fun fact: I've been using versions of RedHat Linux since RH5 which you could buy in a box from Walmart :O
+- ⚡ Fun fact: I've been using various versions of GNU/Linux since RedHat and Mandrake Linux 5 which you could buy in a box from Walmart :O
 - 📫 How to reach me: jgmitchell arcuscg com
 
 <!--
